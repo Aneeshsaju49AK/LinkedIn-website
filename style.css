@@ -1,0 +1,877 @@
+#body {
+    margin: 0%;
+    padding: 0%;
+}
+
+/* nav-bar */
+.nav-main {
+    background-color: transparent;
+    text-align: center;
+    height: 110px;
+
+    position: sticky;
+}
+
+.navbar {
+    background-color: transparent;
+    display: inline-block;
+    width: 75%;
+    margin-left: 190px;
+    height: 80px;
+}
+
+.fa-home {
+    margin-left: 600px;
+
+}
+
+.head-logo {
+    width: 130px;
+    height: 50px;
+    object-fit: cover;
+}
+
+.join {
+    background-color: transparent;
+    width: 230px;
+    height: 50px;
+    margin-right: 20px;
+}
+
+.join-button {
+    width: 48%;
+    background-color: transparent;
+    display: inline-block;
+    height: 100%;
+}
+
+.sign-in-button {
+    width: 50%;
+    background-color: transparent;
+    display: inline-block;
+    height: 100%;
+}
+
+.button {
+    height: 100%;
+    width: 100%;
+    border-radius: 28px;
+    font-size: medium;
+    font-weight: bold;
+    background-color: transparent;
+    border-style: none;
+}
+
+.button-01 {
+    height: 100%;
+    width: 100%;
+    border-radius: 28px;
+    font-size: medium;
+    font-weight: bold;
+    background-color: transparent;
+    border-style: solid;
+
+}
+
+/* main-div */
+.main-display {
+    background-color: transparent;
+    display: inline-block;
+    width: 75%;
+    margin-left: 190px;
+    height: 830px;
+}
+
+.main-display-left {
+    background-color: transparent;
+    display: inline-block;
+    width: 40%;
+    height: 93%;
+    margin-top: 60px;
+    vertical-align: top;
+}
+
+.main-display-right {
+    background-color: transparent;
+    display: inline-block;
+    width: 49%;
+    height: 70%;
+    vertical-align: top;
+    margin-top: 160px;
+
+}
+
+.main-view {
+    height: 100%;
+    width: 150%;
+}
+
+.main-display-left-sub-01 {
+    width: 95%;
+    background-color: transparent;
+    height: 30%;
+}
+
+.main-display-left-sub-02 {
+    width: 70%;
+    background-color: transparent;
+    height: 55%;
+    margin-top: 15px;
+}
+
+.main-display-left-sub-03 {
+    width: 70%;
+    background-color: transparent;
+    height: 10%;
+    margin-top: 10px;
+
+}
+
+.Welcome {
+    font-family: 'Gruppo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Overlock', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 60px;
+    font-weight: inherit;
+}
+
+.main-display-left-sub-02-email {
+    background-color: transparent;
+    height: 22%;
+
+}
+
+.main-display-left-sub-02-password {
+    background-color: transparent;
+    height: 22%;
+}
+
+.main-display-left-sub-02-forget {
+    background-color: transparent;
+    height: 26%;
+}
+
+.main-display-left-sub-02-or {
+    background-color: transparent;
+    height: 15%;
+}
+
+.main-display-left-sub-02-signin {
+    background-color: transparent;
+    height: 15%;
+}
+
+.main-display-left-sub-02-email-name {
+    background-color: transparent;
+}
+
+.main-display-left-sub-02-email-search {
+    border: groove;
+    border-radius: 10px;
+    height: 60%;
+
+}
+
+.main-display-left-sub-02-email-name {
+    height: 20%;
+}
+
+.search-mail {
+    background-color: transparent;
+    margin-left: 40px;
+    margin-top: 10px;
+    width: 70%;
+    border-style: none;
+
+
+}
+
+.main-display-left-sub-02-forget-name {
+    background-color: transparent;
+    height: 23%;
+}
+
+.main-display-left-sub-02-forget-button {
+    background-color: transparent;
+    height: 60%;
+    margin-top: 20px;
+}
+
+.Sign-in {
+    width: 100%;
+    height: 70%;
+    border-radius: 30px;
+    border-style: none;
+    background-color: #0a66c2;
+}
+
+.main-display-left-sub-02-or-name {
+    width: 10%;
+    background-color: transparent;
+    height: 60%;
+    margin-left: 220px;
+    align-items: center;
+    text-align: center;
+    display: inline-block;
+    margin-top: 15px;
+
+}
+
+.Sign-in-google {
+    width: 100%;
+    height: 70%;
+    border-radius: 40px;
+    background-color: transparent;
+}
+
+/* find-the-job */
+.main-div-findjob {
+    background-color: rgb(248, 253, 243);
+    height: 550px;
+    width: 75%;
+    margin-left: 190px;
+}
+
+.findjob-left-main {
+    background-color: transparent;
+    display: inline-block;
+    width: 30%;
+    height: 50%;
+    margin-top: 70px;
+
+}
+
+.findjob-right-main {
+    background-color: transparent;
+    display: inline-block;
+    margin-top: 70px;
+    width: 60%;
+    height: 70%;
+    margin-left: 130px;
+    vertical-align: top;
+}
+
+.find-job {
+    font-family: 'Gruppo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Overlock', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+    font-weight: 5px;
+    line-height: 50px;
+
+}
+
+.findjob-right-main-01 {
+    width: 100%;
+    background-color: transparent;
+    height: 10%;
+
+}
+
+.findjob-right-main-02 {
+    width: 100%;
+    background-color: transparent;
+    height: 70%;
+
+}
+
+.findjob-right-main-03 {
+    width: 100%;
+    background-color: transparent;
+    height: 15%;
+    margin-top: 9px;
+
+}
+
+.find-job-button-01 {
+    width: 220px;
+    height: 60px;
+    border-radius: 40px;
+    margin-top: 7px;
+    background-color: transparent;
+    border: 1cap;
+    border-color: #0b0b0c;
+}
+
+.find-job-button-02 {
+    width: 250px;
+    height: 60px;
+    border-radius: 40px;
+    margin-top: 7px;
+    border: 1cap;
+    border-color: #0b0b0c;
+    background-color: transparent;
+}
+
+.show-more {
+    width: 150px;
+    height: 50px;
+    border-radius: 40px;
+    margin-top: 7px;
+    border: 1cap;
+    border-color: #0b0b0c;
+    background-color: transparent;
+}
+
+/* post-a-job */
+.main-div-postjob {
+
+    width: 75%;
+    margin-left: 190px;
+    height: 325px;
+    background-color: rgb(253, 243, 243);
+}
+
+.main-div-postjob-status {
+    width: 40%;
+    background-color: transparent;
+    height: 60%;
+    display: inline-block;
+    margin-top: 50px;
+}
+
+.postjob-button {
+    width: 150px;
+    height: 50px;
+    border-radius: 40px;
+    margin-left: 50px;
+    margin-top: 120px;
+    border: 1cap;
+    border-color: #0b0b0c;
+    background-color: transparent;
+
+
+}
+
+.main-div-postjob-button {
+    width: 30%;
+    display: inline-block;
+    background-color: transparent;
+    vertical-align: top;
+    height: 100%;
+}
+
+/* testimonical */
+.main-div-testimonical {
+    width: 75%;
+    margin-left: 190px;
+    height: 700px;
+    background-color: rgb(248, 253, 243);
+}
+
+.inside-div-testimonical {
+    width: 100%;
+    height: 60%;
+    background-color: transparent;
+    display: inline-block;
+    margin-top: 200px;
+}
+
+.d-block {
+    width: 70%;
+
+}
+
+.testi-status {
+    width: 52%;
+    background-color: transparent;
+    display: inline-block;
+    height: 350px;
+    vertical-align: top;
+    margin-top: 30px;
+}
+
+.testi-img {
+    width: 45%;
+    background-color: transparent;
+    display: inline-block;
+    height: 400px;
+    vertical-align: top;
+    margin-left: px;
+
+}
+
+.testi-status h4 {
+    font-family: 'Gruppo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Overlock', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 35px;
+    font-weight: 5px;
+    line-height: 50px;
+}
+
+.testi-status p {
+    font-family: 'Gruppo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Overlock', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 27px;
+}
+
+/* features */
+.main-div-features {
+    width: 75%;
+    margin-left: 190px;
+    height: 700px;
+    background-color: transparent;
+}
+
+.inside-div-01 {
+    width: 100%;
+    background-color: transparent;
+    height: 80%;
+    display: inline-block;
+    margin-top: 80px;
+}
+
+.inside-div-02 {
+    width: 100%;
+    background-color: transparent;
+
+    height: 80%;
+    display: inline-block;
+    margin-top: 50px;
+}
+
+.features-inside-01 {
+    width: 48%;
+    background-color: transparent;
+
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.features-inside-02 {
+    width: 50%;
+    background-color: transparent;
+
+    height: 100%;
+    display: inline-block;
+    margin-left: 10px;
+    vertical-align: top;
+}
+
+.feature-img {
+    background-color: transparent;
+
+    display: inline-block;
+    width: 45%;
+    height: 60%;
+}
+
+.feature-connect {
+    background-color: transparent;
+
+    width: 90%;
+    height: 40%;
+}
+
+.feature-connect-head {
+    width: 100%;
+    height: 60%;
+    background-color: transparent;
+
+}
+
+.feature-connect-head-01 {
+    height: 30%;
+    margin-top: 10px;
+}
+
+.feature-connect-head-01-button {
+    width: 40%;
+    height: 100%;
+    border-radius: 30px;
+    background-color: transparent;
+
+}
+
+.feature-connect-head-02-button {
+    width: 40%;
+    height: 100%;
+    border-radius: 10px;
+    background-color: transparent;
+    margin-left: 20px;
+}
+
+/* who is */
+.main-div-who-is {
+    width: 75%;
+    margin-left: 190px;
+    height: 700px;
+    background-color: transparent;
+}
+
+.main-div-who-is-left {
+    width: 40%;
+    height: 100%;
+    background-color: transparent;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.main-div-who-is-right {
+    width: 40%;
+    height: 100%;
+    background-color: transparent;
+    display: inline-block;
+    margin-left: 3px;
+}
+
+.who-is-imges {
+    width: 160%;
+    height: 110%;
+    margin-left: 10px;
+}
+
+.main-div-who-is-left-01 {
+    display: inline-block;
+    width: 80%;
+    background-color: transparent;
+    height: 70%;
+    margin-top: 210px;
+
+}
+
+.main-div-who-is-left-sub-01 {
+    width: 90%;
+    height: 15%;
+    background-color: transparent;
+}
+.main-div-who-is-left-sub-01 p{
+    font-size: 43px;
+    color: saddlebrown;
+    font-weight: 500;
+
+}
+.main-div-who-is-left-sub-03-01-btt{
+    width: 420px;
+    height: 60px;
+    border-radius: 5px;
+}
+.main-div-who-is-left-sub-03-01 p{
+   font-size: 20px;
+   margin-top: -22px;
+}
+
+.main-div-who-is-left-sub-02 {
+    width: 90%;
+    height: 22%;
+    background-color: transparent;
+    margin-top: 20px;
+}
+
+.main-div-who-is-left-sub-03 {
+    width: 90%;
+    height: 45%;
+    background-color: transparent;
+    margin-top: 50px;
+}
+
+.main-div-who-is-left-sub-03-01 {
+    width: 100%;
+    height: 25%;
+    background-color: transparent;
+
+}
+
+.main-div-who-is-left-sub-03-02 {
+    width: 100%;
+    height: 25%;
+    background-color: transparent;
+    margin-top: 20px;
+}
+.main-div-who-is-left-sub-03-02 p{
+    font-size: 20px;
+    margin-top: -22px;
+ }
+.main-div-who-is-left-sub-03-03 {
+    width: 100%;
+    height: 25%;
+    background-color: transparent;
+    margin-top: 20px;
+}
+.main-div-who-is-left-sub-03-03 p{
+    font-size: 20px;
+    margin-top: -22px;
+ }
+
+.a-sub {
+    font-size: 25px;
+    margin-left: 20px;
+}
+
+/* youtube */
+.main-youtube {
+    width: 75%;
+    margin-left: 190px;
+    height: 700px;
+    background-color: transparent;
+    margin-top: 80px;
+}
+
+.youtube-left {
+    width: 48%;
+    height: 100%;
+    background-color: transparent;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.youtube-right {
+    width: 50%;
+    height: 100%;
+    background-color: transparent;
+    display: inline-block;
+    vertical-align: top;
+    align-items: end;
+}
+
+.youtube-left-01 {
+    display: inline-block;
+    width: 100%;
+    height: 50%;
+    background-color: transparent;
+    margin-top: 190px;
+}
+
+.youtube-video {
+
+    width: 100%;
+    height: 100%;
+}
+
+.youtube-right-head {
+    width: 80%;
+    height: 8%;
+    background-color: transparent;
+    display: inline-block;
+    margin-top: 250px;
+    margin-left: 135px;
+}
+
+.youtube-right-head p {
+    font-weight: 600;
+    font-size: 40px;
+    color: sienna;
+    font-family: 'Gruppo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Overlock', cursive;
+
+}
+
+.youtube-right-status {
+    width: 80%;
+    height: 20%;
+    background-color: transparent;
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 135px;
+}
+
+/* join */
+.join-main-div {
+    width: 100%;
+
+    height: 900px;
+    background-color: transparent;
+
+}
+
+.join-main-div-head {
+    width: 75%;
+    margin-left: 190px;
+    height: 30%;
+    display: inline-block;
+    background-color: transparent2;
+    margin-top: 80px;
+}
+
+.join-main-div-head-h1 {
+    width: 100%;
+    height: 60%;
+    display: inline-block;
+    background-color: transparent;
+    margin-top: 30px;
+}
+
+.join-main-div-head-h1 p {
+    font-size: 50px;
+    line-height: 90%;
+    font-family: 'Gruppo', cursive;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Overlock', cursive;
+}
+
+.join-img {
+    width: 100%;
+    height: 70%;
+    background-color: transparent;
+    margin-right: 20px;
+}
+
+.join-background {
+    width: 100%;
+    height: 100%;
+    object-fit: inherit;
+    background-color: transparent;
+
+}
+
+.join-button-01 {
+    width: 160px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: #0a66c2;
+    color: white;
+    border-style: none;
+    font-weight: 1000;
+}
+
+/* footer */
+.main-div-footer {
+    width: 75%;
+    margin-left: 190px;
+    height: 520px;
+    background-color: transparent;
+    margin-top: 90px;
+}
+
+.main-div-footer-inside {
+    display: inline-block;
+    width: 80%;
+    height: 100%;
+    background-color: transparent;
+    margin-left: 20%;
+}
+
+.img-footer-logo {
+    width: 100px;
+    height: 50px;
+    margin-top: -1000px;
+
+}
+
+.main-div-footer-inside-01 {
+    width: 20%;
+    height: 80%;
+    background-color: transparent;
+    display: inline-block;
+    margin-left: 18%;
+    vertical-align: top;
+    margin-top: 30px;
+}
+
+.main-div-footer-inside-02 {
+    width: 20%;
+    height: 80%;
+    background-color: transparent;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 30px;
+}
+
+.main-div-footer-inside-03 {
+    width: 20%;
+    height: 80%;
+    background-color: transparent;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 30px;
+}
+
+.main-div-footer-inside-04 {
+    width: 20%;
+    height: 80%;
+    background-color: transparent;
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 30px;
+}
+
+.main-div-footer-inside-01-01 {
+    width: 100%;
+    height: 35px;
+    background-color: transparent;
+    color: black;
+    font-size: 22px;
+    font-weight: 500;
+}
+
+.main-div-footer-inside-01-02 {
+    width: 100%;
+    height: 35px;
+    background-color: transparent;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.main-div-footer-inside-01-03 {
+    width: 100%;
+    height: 35px;
+    background-color: transparent;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.main-div-footer-inside-01-04 {
+    width: 100%;
+    height: 35px;
+    background-color: transparent;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.main-div-footer-inside-01-05 {
+    width: 100%;
+    height: 35px;
+    background-color: transparent;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.main-div-footer-inside-01-06 {
+    width: 100%;
+    height: 35px;
+    background-color: transparent;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.main-div-footer-inside-01-07 {
+    width: 100%;
+    height: 35px;
+    background-color: transparent;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+.main-div-footer-inside-01-08 {
+    width: 100%;
+    height: 35px;
+    background-color: transparent;
+    color: rgba(0, 0, 0, 0.6);
+}
+
+
+/* social-media */
+.main-div-social-media {
+    width: 75%;
+    margin-left: 190px;
+    height: 30px;
+    background-color: transparent;
+}
+
+.main-div-social-media-01 {
+    width: 9%;
+    display: inline-block;
+    margin-left: 1px;
+    background-color: transparent;
+    vertical-align: top;
+    font-size: 0.875em;
+    height: 100%;
+    margin-top: 0%;
+}
+
+.img-social-logo {
+    width: 120px;
+    height: 40px;
+}
